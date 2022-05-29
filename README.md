@@ -6,6 +6,7 @@ Unict Computer Engineer Student
  
 *   🌍  I'm based in Siracusa,Italy
 *   :books:  I am currently studying at the university of Catania
+*   Open Source Lover!
 
 ### Skills
 
