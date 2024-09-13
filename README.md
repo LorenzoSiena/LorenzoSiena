@@ -1,11 +1,11 @@
 Ciao! 👋 My name is Lorenzo Siena
 ==============================
-Unict Computer Engineer Student
+Unict Graduate Computer Engineer 
 -----------------
 
  
 *   🌍  I'm based in Siracusa,Italy
-*   :books:  I am currently studying at the university of Catania
+*   :books:  I am currently looking for a job
 *   💻 Open Source and Open Hardware Lover!
 *   ⚙️ 3D printing enthusiast!
 ### Skills
