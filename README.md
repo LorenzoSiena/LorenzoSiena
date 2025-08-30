@@ -16,12 +16,12 @@ Computer Engineer
 ### WANNA SEE MY PORTFOLIO?
 
 <br/>
-<a href="https://docs.google.com/document/d/1yE5VoPe0VPemJkAkveJEEAAppT-43nH0je9PP9_q6UI/edit?usp=sharing"> <button>🇮🇹 ITA PORTFOLIO 🇮🇹</button> </a>
+<a href="https://lorenzosiena.github.io/it/"> <button>🇮🇹 ITA PORTFOLIO 🇮🇹</button> </a>
 <br/>
 
 
 <br/>
-<a href="https://docs.google.com/document/d/1d4zCK6wZqXeSX0d7jqxeN46zfceq4lFiZc-mgSGEUOM/edit?usp=sharing"> <button>🇬🇧 ENG PORTFOLIO 🇬🇧</button> </a>
+<a href="https://lorenzosiena.github.io/it/"> <button>🇬🇧 ENG PORTFOLIO 🇬🇧</button> </a>
 <br/>
 
 
