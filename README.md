@@ -21,7 +21,7 @@ Computer Engineer
 
 
 <br/>
-<a href="https://lorenzosiena.github.io/it/"> <button>🇬🇧 ENG PORTFOLIO 🇬🇧</button> </a>
+<a href="https://lorenzosiena.github.io/en/"> <button>🇬🇧 ENG PORTFOLIO 🇬🇧</button> </a>
 <br/>
 
 
