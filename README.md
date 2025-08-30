@@ -1,6 +1,6 @@
 Ciao! 👋 My name is Lorenzo Siena
 ==============================
-Computer Engineer 
+Backend / Ai Engineer 
 -----------------
 
  
